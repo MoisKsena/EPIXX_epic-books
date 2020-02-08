@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoisKsena/EPIXX_epic-books.git"
+    "url": "https://github.com/MoisKsena/EPIXX_epic-books.git"
   },
   "author": "MoisKa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MoisKsena/EPIXX_epic-books/issues"
   },
-  "homepage": "https://github.com/MoisKsena/EPIXX_epic-books#cart"
+  "homepage": "https://github.com/MoisKsena/EPIXX_epic-books/cart.html"
 }
